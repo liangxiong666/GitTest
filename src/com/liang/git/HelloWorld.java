@@ -5,6 +5,7 @@ public class HelloWorld {
 		System.out.println("Hello World!");
 		System.out.println("left");
 		System.out.println("right");
+		System.out.println("hot fix ...");
 	}
 	
 }
